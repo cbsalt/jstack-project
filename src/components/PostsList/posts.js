@@ -6,7 +6,7 @@ export default [
   },
   {
     id: Math.random(),
-    title: 'Entendo as props...',
+    title: 'Entendendo as props...',
     description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam quia libero.',
   },
   {
